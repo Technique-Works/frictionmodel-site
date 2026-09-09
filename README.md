@@ -1,2 +1,2 @@
 # frictionmodel-site
-Self-assessment instrument — 27 questions across the nine Case components
+Landing page for frictionmodel.com. The Friction Model — a risk, compliance and governance framework for heavy industry. From Technique Works.
